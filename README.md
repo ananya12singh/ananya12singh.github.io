@@ -1,3 +1,3 @@
 # Website 
 
-Code for my personal website hosted on [mayank26saxena.github.io](http://mayank26saxena.github.io/)
+Code for my personal website hosted on [ananya12singh.github.io](http://ananya12singh.github.io/)
